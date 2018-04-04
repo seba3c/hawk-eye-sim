@@ -8,19 +8,19 @@ Using different image operations and techniques (i.e erosion, dilation, region g
 
 ## Screenshots
 
-**Parameters**: Game Type: DOUBLES Player direction: LEFT Point type: SERVICE Service target direction: LEFT
-**Result**: IN
+* **Parameters**: Game Type: DOUBLES Player direction: LEFT Point type: SERVICE Service target direction: LEFT
+* **Result**: IN
 
 <img src="imgs_doc/tennis_court_shot_002_tif_DOUBLES_LEFT_SERVICE_LEFT_IN.png" width="800">
 
-**Parameters**: Game Type: DOUBLES Player direction: LEFT Point type: SERVICE Service target direction: LEFT
-**Result**: OUT
+* **Parameters**: Game Type: DOUBLES Player direction: LEFT Point type: SERVICE Service target direction: LEFT
+* **Result**: OUT
 
 <img src="imgs_doc/tennis_court_shot_003_tif_DOUBLES_LEFT_SERVICE_LEFT_OUT.png" width="800">
 
 ## Requirements
 
-To run this application a version of [Matlab](https://la.mathworks.com/products/matlab.html) is needed.
+* To run this application a version of [Matlab](https://la.mathworks.com/products/matlab.html) is needed.
 
 ## Run the examples
 
