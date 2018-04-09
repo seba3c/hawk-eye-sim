@@ -2,7 +2,7 @@
 
 Small toy app using Matlab to test some image processing operations simulating a Tennis Hawk Eye.
 
-The script received as input a simplified image of a tennis court with a tennis ball over the court (or None) and some additional data (like the the of game Single or Doubles). 
+The script received as input a simplified image of a tennis court with a tennis ball over the court (or None) and some additional data (like the type of game: Single or Doubles). 
 
 Using different image operations and techniques (i.e erosion, dilation, region growing, etc.) the script indicates if the ball is IN or OUT the valid area of the tennis court.
 
